@@ -1,0 +1,4 @@
+created_at,customer_id,name,email,amount,is_active,score
+2022-10-01 12:30:00,1,John Doe,john@example.com,150.75,true,85
+2022-10-05 09:15:00,2,Amal Hassan,amal@example.com,320.00,false,92
+2022-10-12 18:45:00,3,Khalid Ben,khalid@example.com,89.99,true,77
